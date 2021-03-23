@@ -12,8 +12,7 @@ Follow on-screen instructions and press the instructions button to see in-game r
 
 ## How to Change Server:
 Get the PUBLIC IP address from whoever will be running the server and paste it into IP.txt. Note that the game
-will only try to connect to that IP address while it is in the file. If you want to go back to the default server
-(Jonathan's server), simply remove any text from IP.txt.
+will only try to connect to that IP address while it is in the file.
 
 
 ## Running a Server:
